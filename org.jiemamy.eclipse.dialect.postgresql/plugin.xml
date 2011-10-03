@@ -2,8 +2,8 @@
 <?eclipse version="3.2"?>
 <plugin>
 
-   <extension point="org.jiemamy.eclipse.core.dialects">
-	  <dialect class="org.jiemamy.dialect.postgresql.PostgreSqlDialect"/>
-   </extension>
+    <extension point="org.jiemamy.eclipse.core.dialects">
+      <dialect class="org.jiemamy.dialect.postgresql.PostgreSqlDialect"/>
+    </extension>
 
 </plugin>
